@@ -6,7 +6,7 @@ This utility is designed to be included in a WordPress theme (e.g., in `function
 
 ## 🌟 Features
 
-* **Add Custom Columns:** Easily add new columns like "Featured Image" or "Price".
+* **Add Custom Columns:** Easily add new columns like "Price".
 * **Sortable Columns:** Includes correct sorting logic for meta fields (both numeric and text).
 
 ## 🚀 Installation & Usage
